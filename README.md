@@ -1,22 +1,39 @@
-Auto Clicker & Key Presser
-==========================
+# 4F Auto Clicker & Presser
 
-A lightweight tool for automating mouse clicks and keyboard presses. Completely free with no ads or limitations.
+> [!NOTE]
+>  **Announcement (v0.5):**  
+> Starting with **v0.5**, the application has been renamed from **AutoClicker & KeyPresser** to **4F Auto Clicker & Presser**.  
+> **4F** stands for **Free**, **Fast**, **Featherweight**, and **Friendly**—representing our commitment to delivering a free, lightweight, high-performance, and user-friendly automation tool. The application's core functionality remains unchanged.
 
-Features
---------
-* Automates mouse clicks and keystrokes based on custom interval settings.
-* Portable app: run directly without any setup or installation process.
-* Unlimited usage time and clean of any tracking code.
+## Overview
 
-How to Use
-----------
-1. Download and extract `AutoClicker&KeyPresser.zip`.
-2. Run the `.exe` file to start.
+**4F Auto Clicker & Presser** is a lightweight, portable Windows application for automating mouse clicks and keyboard input. Built around the **4F** philosophy—**Free**, **Fast**, **Featherweight**, and **Friendly**—it requires no installation, contains no advertisements or telemetry, and has no feature limitations.
 
-License
--------
-This project is licensed under the PolyForm Noncommercial 1.0.0.
+## Features
 
-* PERMITTED: Free to use, copy, share, and modify for non-commercial purposes.
-* PROHIBITED: Selling, commercializing in any form, or removing original credit to the author (PardHazuo).
+- Automate mouse clicks and keyboard presses with fully customizable intervals.
+- Portable application — no installation or setup required.
+- Lightweight and optimized for minimal resource usage.
+- No advertisements, telemetry, or tracking.
+- Unlimited usage with no locked features or time limits.
+- Simple, clean, and easy-to-use interface.
+
+## Getting Started
+
+1. Download and extract **`4FAutoClicker&Presser.zip`**.
+2. Launch **`4FAutoClicker&Presser.exe`**.
+3. Configure your automation settings and click **Start**.
+
+## License
+
+This project is licensed under the **PolyForm Noncommercial 1.0.0** License.
+
+### ✅ Permitted
+
+- Use the software free of charge for non-commercial purposes.
+- Copy, share, and modify the source code in accordance with the license terms.
+
+### ❌ Prohibited
+
+- Sell, distribute, or use the software for commercial purposes.
+- Remove or modify the original author attribution (**PardHazuo**).
