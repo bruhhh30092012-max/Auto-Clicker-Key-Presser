@@ -26,14 +26,12 @@
 
 ## License
 
-This project is licensed under the **PolyForm Noncommercial 1.0.0** License.
+This project is licensed under the **Business Source License 1.1**.
 
-### ✅ Permitted
+✅ **Permitted**
+- Free to use for personal and internal business/commercial purposes.
+- Copy, share, and modify the source code.
 
-- Use the software free of charge for non-commercial purposes.
-- Copy, share, and modify the source code in accordance with the license terms.
-
-### ❌ Prohibited
-
-- Sell, distribute, or use the software for commercial purposes.
-- Remove or modify the original author attribution (**PardHazuo**).
+❌ **Prohibited**
+- Selling the software or offering it as a paid commercial service.
+- Removing or modifying the original author attribution (**PardHazuo**).
